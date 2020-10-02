@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": 1, "name": "Mayank" },
+    { "id": 2, "name": "Dave" },
+    { "id": 3, "name": "John" }
+  ],
+  "user": [
+    { "id": 1, "name": "some comment", "postId": 1 }
+   
+  ],
+  "detail": {
+    "email": "xyz@123","password":"12345"
+  }
+}

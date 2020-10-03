@@ -1,8 +1,8 @@
 {
   "category": [
-    { "id": 1, "name": "Mayank" },
-    { "id": 2, "name": "Dave" },
-    { "id": 3, "name": "John" }
+    { "category_category_name": "Home Applicances", "category_category_seq": "1","category_id":"1" },
+    { "category_category_name": "Accessories", "category_category_seq": "2","category_id":"2"  },
+    { "category_category_name": "Electronics", "category_category_seq": "3","category_id":"3"  }
   ],
   "user": [
     { "id": 1, "name": "some comment", "postId": 1 }

@@ -1,5 +1,5 @@
 {
-  "users": [
+  "category": [
     { "id": 1, "name": "Mayank" },
     { "id": 2, "name": "Dave" },
     { "id": 3, "name": "John" }
@@ -10,11 +10,6 @@
   ],
   "detail": {
     "email": "xyz@123","password":"12345"
-  },
-   "category": [
-    { "id": 1, "name": "Mayank" },
-    { "id": 2, "name": "Dave" },
-    { "id": 3, "name": "John" }
-  ]
+  }
  
 }
